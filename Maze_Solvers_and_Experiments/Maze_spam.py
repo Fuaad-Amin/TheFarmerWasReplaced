@@ -1,3 +1,5 @@
+# Literally the fastest way to farm a ton of gold in the game provided you had Weird_Substance to burn
+
 clear()
 
 from move_to import move_to
